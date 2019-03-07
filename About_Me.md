@@ -112,4 +112,4 @@ Adalid Abogados – Bogotá, Colombia
 Universidad de Manizales – Manizales, Colombia
  
 ---
-Copyright (c) 2019 Jairo A. Garcia H.
+© 2010 - 2019 - Jairo A. Garcia H. - Todos los derechos reservados. 
