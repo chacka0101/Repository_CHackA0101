@@ -4,7 +4,6 @@ Jairo A. Garcia H.
 - Tarjeta Profesional COPNIA con más de nueve (9) años de experiencia certificada (TP expedida en 2010) 
 - Correo electrónico.: chacka0101 @ gmail.com
 - Entrevista en "Mundo Hacker" (Diciembre 2017) – [Canal 13]: https://www.youtube.com/watch?v=QV90EuDUHtE&list
-- About me: https://github.com/chacka0101/Repository_CHackA0101/blob/master/About_Me.md
 
 Estudios y Certificaciones
 --
