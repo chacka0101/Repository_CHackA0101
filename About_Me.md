@@ -73,6 +73,43 @@ Corporación Universitaria Minuto de Dios
 Publicada como una de las mejores Tesis en el año 2008, Revista No. 107 de ACIS (Asociación Colombiana de Ingenieros de Sistemas).
 Bogotá, agosto de 2007.
 
+Ponencias - Cursos
+---
+- Ponente del CYBERSECURITY DAYS (Octubre de 2018) 
+Universidad POLITECNICO GRANCOLOMBIANO
+
+- Ponente de la II Jornada de Redes y Seguridad Informática ECCISEC (Abril de 2018) 
+Universidad ECCI
+
+- Ponente del II Simposio de Delitos Informáticos - (Noviembre 2017)
+Fiscalía General de la Nación – Cali, Colombia
+
+- Participante del Curso ATM Security - (Junio 2013)
+Liquid Nexxus – Bogotá, Colombia
+
+- Participación en el Curso Norma PCI DSS 2.0 - (Octubre 2012)
+IQ Information Quality – Bogotá, Colombia
+
+- Participación en Fraude Informático - (Agosto 2012)
+Policía Nacional – Bogotá, Colombia
+
+- Ponente del 1er Congreso de Tecnologías Abiertas CTA- UL - (Abril 2012)
+Universidad Libre – Bogotá, Colombia
+
+- Ponente Curso Primeros Respondientes Incidentes Informáticos - (Mayo 2010)
+Adalid Abogados – Bogotá, Colombia
+
+- Ponente en el 2do Congreso de Hacking Ético y Computo Forense - Universidad Minuto de Dios (Noviembre 2009) Programa de Tecnología en Redes de Computadores y Seguridad Informática de la Corporación Universitaria Minuto de Dios – UNIMINUTO
+
+- Ponente del III Encuentro Internacional de Seguridad Informática (EISI) – (Octubre 2009). Universidad de Manizales – Manizales, Colombia
+
+- Participación en el II Foro de Seguridad Informática Empresarial - Kevin Mitnick (Septiembre 2008) Enter y casa editorial EL TIEMPO – Bogotá, Colombia
+ 
+- Ponente en el 1er Congreso de Hacking Ético y Computo Forense - Universidad Minuto de Dios (Mayo 2008) Programa de Tecnología en Redes de Computadores y Seguridad Informática de la Corporación Universitaria Minuto de Dios – UNIMINUTO
+
+- Participo en el Encuentro Internacional de Hackers (Agosto 2004)
+Universidad de Manizales – Manizales, Colombia
+
 
 
 [wiki]: https://github.com/rapid7/metasploit-framework/wiki
