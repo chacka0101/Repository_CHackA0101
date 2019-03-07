@@ -5,7 +5,7 @@ Jairo A. Garcia H.
 - Correo electrónico.: chacka0101 @ gmail.com
 - Entrevista en "Mundo Hacker" (Diciembre 2017) – [YouTube]: https://www.youtube.com/watch?v=QV90EuDUHtE&list
 
-Certificaciones y Estudios
+Estudios y Certificaciones
 --
 - Certificado de Aprovechamiento de Curso de IPv6 Avanzado 
 (Expedida 15 de diciembre de 2018) LACNIC
@@ -85,13 +85,13 @@ Universidad ECCI
 - Ponente del II Simposio de Delitos Informáticos - (Noviembre 2017)
 Fiscalía General de la Nación – Cali, Colombia
 
-- Participante del Curso ATM Security - (Junio 2013)
+- Participa del Curso ATM Security - (Junio 2013)
 Liquid Nexxus – Bogotá, Colombia
 
-- Participación en el Curso Norma PCI DSS 2.0 - (Octubre 2012)
+- Participa en el Curso Norma PCI DSS 2.0 - (Octubre 2012)
 IQ Information Quality – Bogotá, Colombia
 
-- Participación en Fraude Informático - (Agosto 2012)
+- Participa el curso de Fraude Informático - (Agosto 2012)
 Policía Nacional – Bogotá, Colombia
 
 - Ponente del 1er Congreso de Tecnologías Abiertas CTA- UL - (Abril 2012)
@@ -104,11 +104,11 @@ Adalid Abogados – Bogotá, Colombia
 
 - Ponente del III Encuentro Internacional de Seguridad Informática (EISI) – (Octubre 2009). Universidad de Manizales – Manizales, Colombia
 
-- Participación en el II Foro de Seguridad Informática Empresarial - Kevin Mitnick (Septiembre 2008) Enter y casa editorial EL TIEMPO – Bogotá, Colombia
+- Participa en el II Foro de Seguridad Informática Empresarial - Kevin Mitnick (Septiembre 2008) Enter y casa editorial EL TIEMPO – Bogotá, Colombia
  
 - Ponente en el 1er Congreso de Hacking Ético y Computo Forense - Universidad Minuto de Dios (Mayo 2008) Programa de Tecnología en Redes de Computadores y Seguridad Informática de la Corporación Universitaria Minuto de Dios – UNIMINUTO
 
-- Participo en el Encuentro Internacional de Hackers (Agosto 2004)
+- Participa en el Encuentro Internacional de Hackers (Agosto 2004)
 Universidad de Manizales – Manizales, Colombia
  
 ---
