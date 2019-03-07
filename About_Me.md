@@ -28,7 +28,7 @@ EC - COUNCIL
 - CEH – Certified Ethical Hacker – (Expedida el 25 enero de 2013)
 EC - COUNCIL
 - CIDF – Certificado en Investigación Digital Forense – (Expedida en noviembre de 2012)
-REDLIF - Red Latinoamericana de Informática Forense (http://red.redlif.org/colombia/)
+REDLIF - Red Latinoamericana de Informática Forense
 - CTI – Certificación en testeos de intrusión – (Expedida en agosto de 2012)
 Exploit Pack – The future in cyberwarefare
 - Máster en Seguridad Informática – (Expedida el 2 de agosto de 2011)
@@ -110,15 +110,5 @@ Adalid Abogados – Bogotá, Colombia
 
 - Participo en el Encuentro Internacional de Hackers (Agosto 2004)
 Universidad de Manizales – Manizales, Colombia
-
-
-
-[wiki]: https://github.com/rapid7/metasploit-framework/wiki
-[wiki-devenv]: https://github.com/rapid7/metasploit-framework/wiki/Setting-Up-a-Metasploit-Development-Environment "Metasploit Development Environment Setup"
-[wiki-start]: https://github.com/rapid7/metasploit-framework/wiki/ "Metasploit Wiki"
-[wiki-usage]: https://github.com/rapid7/metasploit-framework/wiki/Using-Metasploit "Using Metasploit"
-[unleashed]: https://www.offensive-security.com/metasploit-unleashed/ "Metasploit Unleashed"
-
-
-
-
+ 
+---
