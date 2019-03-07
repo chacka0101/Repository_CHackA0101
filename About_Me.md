@@ -1,7 +1,7 @@
 Jairo A. Garcia H.
 ==
 - CODE NAME: CHackA - Colombia Hack Agent
-- Tarjeta Profesional COPNIA con nueve (9) años de experiencia certificada (TP expedida en 2010) 
+- Tarjeta Profesional COPNIA con más de nueve (9) años de experiencia certificada (TP expedida en 2010) 
 - Correo electrónico.: chacka0101 @ gmail.com
 - Entrevista en "Mundo Hacker" (Diciembre 2017) – [Canal 13]: https://www.youtube.com/watch?v=QV90EuDUHtE&list
 
