@@ -73,7 +73,7 @@ Universidad Autónoma - Bogotá, 1er Semestre de 2011
 Publicada como una de las mejores Tesis en el año 2008, Revista No. 107 de ACIS (Asociación Colombiana de Ingenieros de Sistemas).
 Bogotá, agosto de 2007.
 
-Ponencias - Particiones en cursos
+Ponencias - Participaciones en cursos
 ---
 - Ponente del CYBERSECURITY DAYS (Octubre de 2018) 
 Universidad POLITECNICO GRANCOLOMBIANO
