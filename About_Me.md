@@ -1,8 +1,9 @@
 Jairo A. Garcia H.
-CODE NAME: CHackA - Colombia Hack Agent
-Tarjeta Profesional (Expedida el 3 de marzo 2010)
-Correo electrónico.: chacka0101 @ gmail.com
 ==
+- CODE NAME: CHackA - Colombia Hack Agent
+- Tarjeta Profesional (Expedida el 3 de marzo 2010)
+- Correo electrónico.: chacka0101 @ gmail.com
+
 Certificaciones y Estudios
 --
 - Certificado de Aprovechamiento de Curso de IPv6 Avanzado 
