@@ -3,7 +3,7 @@ Jairo A. Garcia H.
 - CODE NAME: CHackA - Colombia Hack Agent
 - Tarjeta Profesional COPNIA con nueve (9) años de experiencia certificada (TP expedida en 2010) 
 - Correo electrónico.: chacka0101 @ gmail.com
-- Entrevista en "Mundo Hacker" (Diciembre 2017) – [YouTube]: https://www.youtube.com/watch?v=QV90EuDUHtE&list
+- Entrevista en "Mundo Hacker" (Diciembre 2017) – [Canal 13]: https://www.youtube.com/watch?v=QV90EuDUHtE&list
 
 Estudios y Certificaciones
 --
@@ -13,6 +13,7 @@ Estudios y Certificaciones
 (Expedida 1 de octubre de 2018) LACNIC
 - Lead Implementer Information Security Management Systems ISO/IEC 27001:2013
 (Expedida el 4 de mayo de 2018) Integrated Management Systems SAS
+- Entrevista en "Mundo Hacker" (Diciembre 2017) – [Canal 13]: https://www.youtube.com/watch?v=QV90EuDUHtE&list
 - Máster universitario en Seguridad de las TICs (MISTIC) – (Expedida el 10 de marzo de 2016)
 UOC - Universitat Oberta de Catalunya – Convalidado por el Ministerio de Educación de Colombia como MAGÍSTER EN SEGURIDAD DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y DE LAS COMUNICACIONES
 - Certificate of Completion the Courses Nessus Professional Scanner – (Expedida el 14 de enero de 2016)
@@ -74,7 +75,7 @@ Corporación Universitaria Minuto de Dios
 Publicada como una de las mejores Tesis en el año 2008, Revista No. 107 de ACIS (Asociación Colombiana de Ingenieros de Sistemas).
 Bogotá, agosto de 2007.
 
-Ponencias - Cursos
+Ponencias - Particiones en cursos
 ---
 - Ponente del CYBERSECURITY DAYS (Octubre de 2018) 
 Universidad POLITECNICO GRANCOLOMBIANO
