@@ -45,12 +45,12 @@ Universidad Jorge Tadeo Lozano
 
 Investigación y Docencia
 ---
-- Docente del Curso de "CIBERCOMANDOS - GUERRA CIBERNETICA" módulo de "PenTesting Avanzado" EJERCITO NACIONAL DE COLOMBIA - Escuela de Comunicaciones ESCOM.
+- Docente del Curso de "CIBERCOMANDOS - GUERRA CIBERNETICA" módulo de "PenTesting Avanzado" - EJERCITO NACIONAL DE COLOMBIA - Escuela de Comunicaciones ESCOM.
 Bogotá, 15 de Diciembre 2018.
-- Docente Seminario de informática forense para la Registraduría Nacional del Estado Civil 
+- Docente Seminario de informática forense para la Registraduría Nacional del Estado Civil -
 Universidad Sergio Arboleda (Maestría Derecho - Doctorado Derecho).
 Bogotá, 3 de Octubre de 2018.
-- Docente Especialización en Informática Forense y Gerencia en Telemática
+- Docente Especialización en Informática Forense y Gerencia en Telemática -
 Módulo de Especialización en Informática Forense y Gerencia en Telemática
 Policía Nacional de Colombia (Área de Telemática).
 Bogotá, 13 de junio de 2017.
@@ -58,19 +58,17 @@ Bogotá, 13 de junio de 2017.
 Módulo de Hacking ético
 Policía Nacional de Colombia (Área de Telemática).
 Bogotá, 29 de julio de 2013.
-- Docente Diplomado de Seguridad Informática
+- Docente Diplomado de Seguridad Informática -
 Módulo de Hacking ético
-Corporación Universitaria Minuto de Dios
+Corporación Universitaria Minuto de Dios -
 Bogotá, 1 de marzo de 2013 a 9 de marzo de 2013.
-- Docente Programa de Tecnología en Redes de Computadores y Seguridad Informática 
+- Docente Programa de Tecnología en Redes de Computadores y Seguridad Informática -
 Asignaturas de Informática Forense y Seguridad en Redes
-Corporación Universitaria Minuto de Dios
+Corporación Universitaria Minuto de Dios -
 Bogotá, 13 de junio de 2011 a 14 de noviembre de 2011.
-- Docente de Especialización Modulo de Hacking Ético
-Universidad Autónoma
-Bogotá, 1er Semestre de 2011
-- Placa de Expresión de Gratitud y Reconocimiento de participación de 2do congreso de Hacking Ético - Programa de Tecnología en Redes de Computadores y Seguridad Informática
-Corporación Universitaria Minuto de Dios
+- Docente de Especialización Modulo de Hacking Ético -
+Universidad Autónoma - Bogotá, 1er Semestre de 2011
+- Placa de Expresión de Gratitud y Reconocimiento de participación de 2do congreso de Hacking Ético - Programa de Tecnología en Redes de Computadores y Seguridad Informática - Corporación Universitaria Minuto de Dios
 - Tesis de Grado. “AIO CRM (Artificial Intelligence Owners – Customer Relationship Management)” 
 Publicada como una de las mejores Tesis en el año 2008, Revista No. 107 de ACIS (Asociación Colombiana de Ingenieros de Sistemas).
 Bogotá, agosto de 2007.
