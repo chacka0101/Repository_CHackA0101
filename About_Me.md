@@ -8,6 +8,7 @@ Jairo A. Garcia H.
 
 Estudios y Certificaciones
 --
+- CPHP - Certificado Profesional de Hacking con Python (En curso)
 - Certificado de Aprovechamiento de Curso de IPv6 Avanzado 
 (Expedida 15 de diciembre de 2018) LACNIC
 - Certificado de Aprovechamiento de Curso de IPv6 Básico 
