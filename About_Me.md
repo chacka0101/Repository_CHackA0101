@@ -8,6 +8,7 @@ Jairo A. Garcia H.
 
 Estudios y Certificaciones
 --
+- Manejo en Lenguajes de programación C, C#, C++, HTML, SQL y Python.
 - CPHP - Certificado Profesional de Hacking con Python (En curso)
 - Certificado de Aprovechamiento de Curso de IPv6 Avanzado 
 (Expedida 15 de diciembre de 2018) LACNIC
