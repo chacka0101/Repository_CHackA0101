@@ -3,7 +3,7 @@ Jairo A. Garcia H.
 - Code Name: CHackA - Colombia Hack Agent
 - Tarjeta Profesional COPNIA: Con más de nueve (9) años de experiencia certificada (TP expedida en 2010) 
 - Correo electrónico: chacka0101 @ gmail.com
-- Debian consulting services
+- Debian consulting services - https://www.debian.org/consultants/index.es.html#CO
 - Compañia: THE EAGLE LABS - https://www.theeaglelabs.com/
 
 Estudios y Certificaciones
