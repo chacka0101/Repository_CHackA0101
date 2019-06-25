@@ -6,8 +6,9 @@ Jairo A. Garcia H.
 - Debian consulting services - https://www.debian.org/consultants/index.es.html#CO
 - Compañia: THE EAGLE LABS - https://www.theeaglelabs.com/
 
-Estudios y Certificaciones
+Estudios - Certificaciones - Comunidad
 --
+- Miembro de Internet Society Colombia Chapter - ISOC Colombia - Ciberseguridad. Desde 2019.
 - Manejo en Lenguajes de programación C, C#, C++, HTML, SQL y Python.
 - CPHP - Certificado Profesional de Hacking con Python (En curso)
 - Certificado de Aprovechamiento de Curso de IPv6 Avanzado 
