@@ -113,6 +113,6 @@ Adalid Abogados – Bogotá, Colombia
 
 - Participa en el Encuentro Internacional de Hackers (Agosto 2004)
 Universidad de Manizales – Manizales, Colombia
- 
+
 ---
 © 2010 - 2019 - Jairo A. Garcia H. - Todos los derechos reservados. 
