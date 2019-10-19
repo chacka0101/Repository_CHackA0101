@@ -1,6 +1,6 @@
 Jairo A. Garcia H.
 ==
-![Alt Text](https://github.com/Repository_CHackA0101/Jairo Alonso Garcia Hurtado.jpg)
+![Alt Text](https://github.com/Repository_CHackA0101/Jairo_Alonso_Garcia_Hurtado.jpg)
 - Code Name: CHackA - Colombia Hack Agent
 - Tarjeta Profesional COPNIA: Con más de nueve (9) años de experiencia certificada (TP expedida en 2010) 
 - Correo electrónico: chacka0101 @ gmail.com
