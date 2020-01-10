@@ -9,9 +9,10 @@ Jairo A. Garcia H.
 
 Estudios - Certificaciones - Comunidad
 --
-- Miembro de Internet Society Colombia Chapter - ISOC Colombia - Ciberseguridad. Desde 2019.
 - Manejo en Lenguajes de programación C, C#, C++, HTML, SQL y Python.
 - CPHP - Certificado Profesional de Hacking con Python (En curso)
+- Certificate of Lead Auditor ISO / IEC 27001:2013 – ERCA
+(Expedida 15 de noviembre de 2019) LL-C Services Colombia
 - Certificado de Aprovechamiento de Curso de IPv6 Avanzado 
 (Expedida 15 de diciembre de 2018) LACNIC
 - Certificado de Aprovechamiento de Curso de IPv6 Básico 
