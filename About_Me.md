@@ -1,11 +1,11 @@
 Jairo A. Garcia H.
 ==
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/Jairo_Alonso_Garcia_H.jpg?raw=true)
-- Code Name: CHackA - Colombia Hack Agent
+- Code Name: CHackA - Colombia Hacking Agent
 - Tarjeta Profesional COPNIA: Con más de diez (10) años de experiencia certificada (TP expedida en 2010) 
-- Correo electrónico: chacka0101 @ gmail.com
+- Email: chacka0101 @ gmail.com
 - Debian consultant - https://www.debian.org/consultants/index.es.html#CO
-- Compañia: THE EAGLE LABS - https://www.theeaglelabs.com/
+- Company: THE EAGLE LABS International - https://www.theeaglelabs.com/
 
 Estudios - Certificaciones - Comunidad
 --
@@ -104,4 +104,4 @@ Adalid Abogados – Bogotá, Colombia
 - Participa en el Encuentro Internacional de Hackers (Agosto 2004)
 Universidad de Manizales – Manizales, Colombia
 ---
-© 2010 - 2020 - Jairo A. Garcia H. - Todos los derechos reservados.
+Update March 2020.
