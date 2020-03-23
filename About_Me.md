@@ -104,4 +104,4 @@ Adalid Abogados – Bogotá, Colombia
 - Participa en el Encuentro Internacional de Hackers (Agosto 2004)
 Universidad de Manizales – Manizales, Colombia
 ---
-Update March 2020.
+© 2020 GitHub, Inc. Update March 2020.
