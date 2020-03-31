@@ -9,7 +9,7 @@ Jairo A. Garcia H.
 
 Estudios - Certificaciones - Comunidad
 --
-- Manejo en Lenguajes de programación C, C#, C++, HTML, SQL y Python.
+- Manejo en Lenguajes de programación C, C++, HTML, SQL y Python.
 - CPHP - Certificado Profesional de Hacking con Python (En curso)
 - Certificate of Lead Auditor ISO / IEC 27001:2013 – ERCA
 (Expedida 15 de noviembre de 2019) LL-C Services Colombia
