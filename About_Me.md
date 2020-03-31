@@ -1,9 +1,9 @@
 Jairo A. Garcia H.
 ==
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/Jairo_A_Garcia_H.jpg?raw=true)
-- Code Name: CHackA0101 - Colombia Hacking Agent 0101
+- Codename: CHackA0101 (Colombia Hacking Agent 0101)
 - Tarjeta Profesional COPNIA: Con más de diez (10) años de experiencia certificada (TP expedida en 2010) 
-- Email: chacka0101 @ gmail.com
+- Email: chacka0101 AT gmail AT com
 - Debian consultant - https://www.debian.org/consultants/index.es.html#CO
 - Company: THE EAGLE LABS International - https://www.theeaglelabs.com/
 
