@@ -37,9 +37,9 @@ QGCS - Qualys Guard Certified Specialist - Qualys Guard (Expected October 2009)
 ```
 ##### Organization Memberships and Volunteering
 ```
-•	Debian Consultant - https://www.debian.org/consultants/
-•	Kali Linux Community - https://www.kali.org/community/
-•	Passionate about ethical hacking – https://hackingcommandcenter.com/
+•	Debian Consultant                   https://www.debian.org/consultants/
+•	Kali Linux Community                https://www.kali.org/community/
+•	Passionate about ethical hacking    https://hackingcommandcenter.com/
 ```
 ---
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/hacker.png)
