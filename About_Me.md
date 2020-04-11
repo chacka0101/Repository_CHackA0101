@@ -23,11 +23,11 @@
 ```
 ##### Certifications
 ```
-Certified of Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Issued November 2019)
-Certified of Completion of Advanced IPv6 Course - LACNIC (Issued December 2018)
-Certified of Completion of Basic IPv6 Course - LACNIC (Issued October 2018)
+Certified Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Issued November 2019)
+Certified Completion of Advanced IPv6 Course - LACNIC (Issued December 2018)
+Certified Completion of Basic IPv6 Course - LACNIC (Issued October 2018)
 Certified Lead Implementer Information Security Management Systems ISO/IEC 27001:2013 - IMS - (Issued May 2018)
-Certified of Completion the Courses Nessus Professional Scanner - Tenable Network Security - (Issued January de 2016
+Certified Completion the Courses Nessus Professional Scanner - Tenable Network Security - (Issued January de 2016
 Certified Internal Auditor ISO / IEC 27001:2013 - Future Builders Colombia S.A. (Issued May 2015)
 LPT – Licensed Penetration Tester - EC – COUNCIL (Issued March 2014)
 ECSA – EC-Council Certified Security Analyst – EC-COUNCIL (Issued October 2013)
