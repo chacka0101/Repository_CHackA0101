@@ -1,13 +1,12 @@
 Jairo A. Garcia H.
 ==
+```
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/Jairo_A_Garcia_H.jpg?raw=true)
 - Codename: CHackA0101 (Colombia Hacking Agent 0101)
 - Tarjeta Profesional COPNIA: Con más de diez (10) años de experiencia certificada (TP expedida en 2010) 
-- Email: chacka0101 AT gmail AT com
-- Debian consultant - https://www.debian.org/consultants/index.es.html#US
-- Company: THE EAGLE LABS International - https://www.theeaglelabs.com/
-
-#### Education
+- Email: chacka0101 @ gmail . com
+```
+##### Education
 ```
 Master's Degree in IT Security (MISTIC) (Expected March 2016)
 UOC - Universitat Oberta de Catalunya
@@ -18,7 +17,7 @@ UOC - Universitat Oberta de Catalunya
 Bachelor of Information System Administrator (Expected September 2008)
 Universidad Jorge Tadeo Lozano
 ```
-### Certifications
+##### Certifications
 ```
 Certified Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Expected November 2019)
 Certified Completion of Advanced IPv6 Course - LACNIC (Expected December 2018)
