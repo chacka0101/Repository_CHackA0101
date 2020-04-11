@@ -23,20 +23,20 @@ Universidad Jorge Tadeo Lozano (Colombia)
 ```
 ##### Certifications
 ```
-Certificate of Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Issued November 2019)		           
-Certificate of Completion of Advanced IPv6 Course - LACNIC (Issued December 2018) 					
-Certificate of Completion of Basic IPv6 Course - LACNIC (Issued October 2018) 					           
-Lead Implementer Information Security Management Systems ISO/IEC 27001:2013 - IMS - (Issued May 2018) 		
-Certificate of Completion the Courses Nessus Professional Scanner - Tenable Network Security - (Issued January de 2016)
-Certificate Internal Auditor ISO / IEC 27001:2013 - Future Builders Colombia S.A. (Issued May 2015)			
-LPT – Licensed Penetration Tester - EC – COUNCIL (Issued March 2014)						           
+Certified of Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Issued November 2019)		        
+Certified of Completion of Advanced IPv6 Course - LACNIC (Issued December 2018) 					
+Certified of Completion of Basic IPv6 Course - LACNIC (Issued October 2018) 					        
+Certified Lead Implementer Information Security Management Systems ISO/IEC 27001:2013 - IMS - (Issued May 2018) 
+Certified of Completion the Courses Nessus Professional Scanner - Tenable Network Security - (Issued January de 2016)
+Certified Internal Auditor ISO / IEC 27001:2013 - Future Builders Colombia S.A. (Issued May 2015)			        
+LPT – Licensed Penetration Tester - EC – COUNCIL (Issued March 2014)						        
 ECSA – EC-Council Certified Security Analyst – EC-COUNCIL (Issued October 2013)					
 CHFI – Computer Hacking Forensic Investigator – EC-COUNCIL (Issued July 2013)					
-CEH – Certified Ethical Hacker – EC-COUNCIL (Issued January 2013)						           
-Certificate in Digital Forensic Investigation – REDLIF - (Expected November 2012)					
+CEH – Certified Ethical Hacker – EC-COUNCIL (Issued January 2013)						        
+Certified Digital Forensic Investigation – REDLIF - (Expected November 2012)					        
 CTI - Certification in intrusion tests - Exploit Pack – The future in Cyberwarefare - (Issued August 2012)			
-CompTIA Security Plus + CERTIFIED - CompTIA (Issued December 2010)						     	
-CFRI - Certified First Responder Incident - Adalid Abogados (Issued May 2010)						
+CompTIA Security Plus + Certified - CompTIA (Issued December 2010)						     
+CFRI - Certified First Responder Incident - Adalid Abogados (Issued May 2010)										
 ```
 ##### Skills, Methodology and Software
 ```
