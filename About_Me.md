@@ -46,4 +46,5 @@ CFRI - Certified First Responder Incident - Adalid Abogados (Issued May 2010)
 ###### •	Kali Linux Community                https://www.kali.org/community/
 ###### •	Hacking Command Center              http://hackingcommandcenter.com
 ---
+
 ###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/hacker.png) Passionate about hacking    http://catb.org/jargon/html/ 
