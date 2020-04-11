@@ -23,20 +23,20 @@
 ```
 ##### Certifications
 ```
-Certified Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Issued November 2019)
-Certified Completion of Advanced IPv6 Course - LACNIC (Issued December 2018)
-Certified Completion of Basic IPv6 Course - LACNIC (Issued October 2018)
-Certified Lead Implementer Information Security Management Systems ISO/IEC 27001:2013 - IMS - (Issued May 2018)
-Certified Completion the Courses Nessus Professional Scanner - Tenable Network Security - (Issued January de 2016
-Certified Internal Auditor ISO / IEC 27001:2013 - Future Builders Colombia S.A. (Issued May 2015)
-LPT – Licensed Penetration Tester - EC – COUNCIL (Issued March 2014)
-ECSA – EC-Council Certified Security Analyst – EC-COUNCIL (Issued October 2013)
-CHFI – Computer Hacking Forensic Investigator – EC-COUNCIL (Issued July 2013)
-CEH – Certified Ethical Hacker – EC-COUNCIL (Issued January 2013)
-Certified Digital Forensic Investigation – REDLIF - (Expected November 2012)
-CTI - Certified in intrusion tests - Exploit Pack – The future in Cyberwarefare - (Issued August 2012)
-CompTIA Security Plus + Certified - CompTIA (Issued December 2010)
-CFRI - Certified First Responder Incident - Adalid Abogados (Issued May 2010)
+• Certified Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Issued November 2019)
+• Certified Completion of Advanced IPv6 Course - LACNIC (Issued December 2018)
+• Certified Completion of Basic IPv6 Course - LACNIC (Issued October 2018)
+• Certified Lead Implementer Information Security Management Systems ISO/IEC 27001:2013 - IMS - (Issued May 2018)
+• Certified Completion the Courses Nessus Professional Scanner - Tenable Network Security - (Issued January de 2016
+• Certified Internal Auditor ISO / IEC 27001:2013 - Future Builders Colombia S.A. (Issued May 2015)
+• LPT – Licensed Penetration Tester - EC – COUNCIL (Issued March 2014)
+• ECSA – EC-Council Certified Security Analyst – EC-COUNCIL (Issued October 2013)
+• CHFI – Computer Hacking Forensic Investigator – EC-COUNCIL (Issued July 2013)
+• CEH – Certified Ethical Hacker – EC-COUNCIL (Issued January 2013)
+• Certified Digital Forensic Investigation – REDLIF - (Expected November 2012)
+• CTI - Certified in intrusion tests - Exploit Pack – The future in Cyberwarefare - (Issued August 2012)
+• CompTIA Security Plus + Certified - CompTIA (Issued December 2010)
+• CFRI - Certified First Responder Incident - Adalid Abogados (Issued May 2010)
 ```
 ##### Skills, Methodology and Software
 ###### C, C++, python, HTML, SQL, BASH, Debian, Ubuntu, Red Hat, Tails, Backtrack, Kali Linux, Exploit DataBase, NetHunter, Google Hacking, Database, Samurai web Testing distro,OpenOffice, Amazon Web Services, Google G-suite, SSL, Nmap, wireshark, Burpsuite, Nikto, Acunetix, OpenVas, Nessus Professional Feed, Qualys Guard, Metasploit, SET Social Engineer Toolkit, Netcat, Log Analysis, CAINE Computer Aide Investigation Environment, Autopsy, DEFT - Digital Evidence and Forensic Toolkit, MITRE ATT&CK Methodology, RED TEAM, Penetration Testing with Kali Linux - Penetration Testing Methodology, PCI Payment Card Industry, ISO 27001, ISO 27002, NIST, OWASP, OSSTMM, PTEST, SQL injection, Penetration Testing, IDS and IPS evasion, CEH trained, Security + Trained, OSI, TCP/IP. Physical social engineering. OT – System Controls, PLC, SCADA.
