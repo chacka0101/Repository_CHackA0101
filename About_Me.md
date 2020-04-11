@@ -12,14 +12,14 @@
 
 ##### Education
 ```
-•	Master's Degree in IT Security (MISTIC) (Issued March 2016)
-        UOC - Universitat Oberta de Catalunya (Spain)
+• Master's Degree in IT Security (MISTIC) (Issued March 2016)
+   UOC - Universitat Oberta de Catalunya (Spain)
         
-•	Master's Degree in Computer Security (Issued August 2011)
-        UOC - Universitat Oberta de Catalunya (Spain)
+• Master's Degree in Computer Security (Issued August 2011)
+   UOC - Universitat Oberta de Catalunya (Spain)
         
-•	Bachelor of Management of Information Systems (Issued September 2008)
-        Universidad Jorge Tadeo Lozano (Colombia)
+• Bachelor of Management of Information Systems (Issued September 2008)
+   Universidad Jorge Tadeo Lozano (Colombia)
 ```
 ##### Certifications
 ```
@@ -48,19 +48,19 @@ CFRI - Certified First Responder Incident - Adalid Abogados (Issued May 2010)
 
 ##### Speaker and Courses
 ```
-•Cybersecurity days: Speaker - Universidad Politécnico Grancolombiano (October de 2018) 
-•Second Conference Networking and IT Security: Speaker - Universidad ECCI (April de 2018) 
-•Second Symposium cybercrime: Speaker - Fiscalía General de la Nación – Cali, Colombia (November 2017)
-•Course ATM Security: Participant - Liquid Nexxus – Bogotá, Colombia. (Jun 2013)
-•Course PCI DSS 2.0: Participant - IQ Information Quality – Bogotá, Colombia (October 2012)
-•Course Computer Fraud: Speaker - Policía Nacional – Bogotá, Colombia. (August 2012)
-•First Congress “Open Technologies”: Speaker - Universidad Libre – Bogotá, Colombia (April 2012)
-•Course First Respondents Computer Incidents: Speaker - Adalid Abogados – Bogotá, Colombia (May 2010)
-•Second Congress Ethical Hacking and Forensic Computing: Speaker - Universidad Minuto de Dios (November 2009) 
-•Third International Meeting on IT Security (EISI):Speaker–Universidad de Manizales–Manizales,Colombia,(October 2009).
-•Second Business Information Security Forum:Participant-Enter, EL TIEMPO – Bogotá,Colombia, Kevin Mitnick.(September 2008) 
-•First Congress ethical Hacking and computer forensic: Speaker - Universidad Minuto de Dios (May 2008)
-•Congress International of Hackers: Participant - Universidad de Manizales – Manizales, Colombia. (August 2004)
+• Cybersecurity days: Speaker - Universidad Politécnico Grancolombiano (October de 2018) 
+• Second Conference Networking and IT Security: Speaker - Universidad ECCI (April de 2018) 
+• Second Symposium cybercrime: Speaker - Fiscalía General de la Nación – Cali, Colombia (November 2017)
+• Course ATM Security: Participant - Liquid Nexxus – Bogotá, Colombia. (Jun 2013)
+• Course PCI DSS 2.0: Participant - IQ Information Quality – Bogotá, Colombia (October 2012)
+• Course Computer Fraud: Speaker - Policía Nacional – Bogotá, Colombia. (August 2012)
+• First Congress “Open Technologies”: Speaker - Universidad Libre – Bogotá, Colombia (April 2012)
+• Course First Respondents Computer Incidents: Speaker - Adalid Abogados – Bogotá, Colombia (May 2010)
+• Second Congress Ethical Hacking and Forensic Computing: Speaker. Universidad Minuto de Dios (November 2009) 
+• Third International Meeting IT Security:Speaker–Universidad Manizales,Colombia,(October 2009).
+• Kevin Mitnick - Information Security Forum:Participant Enter, EL TIEMPO – Bogotá .(September 2008) 
+• First Congress ethical Hacking and computer forensic: Speaker - Universidad Minuto de Dios (May 2008)
+• Congress International of Hackers: Participant - Universidad de Manizales – Manizales, Colombia. (August 2004)
 ```
 ---
 
