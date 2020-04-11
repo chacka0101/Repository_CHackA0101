@@ -22,7 +22,6 @@ Universidad Jorge Tadeo Lozano (Colombia)
 ```
 ##### Certifications
 ```
-Certifications
 Certificate of Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Issued November 2019)		           
 Certificate of Completion of Advanced IPv6 Course - LACNIC (Issued December 2018) 					
 Certificate of Completion of Basic IPv6 Course - LACNIC (Issued October 2018) 					           
