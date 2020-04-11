@@ -36,7 +36,7 @@ CompTIA Security Plus + CERTIFIED - CompTIA (Expected December 2010)
 CFRI - Certified First Responder Incident - Adalid Abogados (Expected May 2010)
 QGCS - Qualys Guard Certified Specialist - Qualys Guard (Expected October 2009)
 ```
-###  Organization Memberships and Volunteering
+##### Organization Memberships and Volunteering
 ```
 •	Debian Consultant - https://www.debian.org/consultants/
 •	Kali Linux Community - https://www.kali.org/community/
