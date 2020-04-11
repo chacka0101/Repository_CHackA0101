@@ -22,7 +22,7 @@ Universidad Jorge Tadeo Lozano
 Certified Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Expected November 2019)
 Certified Completion of Advanced IPv6 Course - LACNIC (Expected December 2018)
 Certified Completion of Basic IPv6 Course - LACNIC (Expected October 2018)
-Certified ead Implementer Information Security Management Systems ISO/IEC 27001:2013 - IMS - (Expected May 2018)
+Certified Lead Implementer Information Security Management Systems ISO/IEC 27001:2013 - IMS - (Expected May 2018)
 Certificate of Completion the Courses Nessus Pro - Tenable Network Security - (Expected January de 2016)
 Certificate Internal Auditor ISO / IEC 27001:2013 - Future Builders Colombia S.A. (Expected May 2015)
 PT – Licensed Penetration Tester - EC – COUNCIL (Expected March 2014)
