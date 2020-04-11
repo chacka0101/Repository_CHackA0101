@@ -6,34 +6,39 @@
 •	COPNIA Professional Card: With more than ten (10) years of certified experience (Expected 2010)
 •	Email: chacka0101 @ gmail . com
 ```
+##### Career Overview 
+```
+Master's Degree in IT Security. Debian consultant. Python developer. Founder of "Hacking Command Center" project. More than 10 years’ experience in "Ethical Hacking", analyst of IT security in BRINKS, he has worked as coordinator of ethical hacking projects with Bank BBVA, BTCOM British Telecom, ACH Colombia, Aeronautica Civil of Colombia, among other important ones. 
+companies in the oil and gas sector with Ecopetrol, Pacific Rubiales, Ocensa and Equion. Cybersecurity consultant at the following government organizations; Policía Nacional de Colombia, Fiscalia General de la nación, Ministerio de Defensa de Colombia and Armed Forces. Professor of "Cybercommands - cyberwarefare" module of "Advanced PenTesting" for the Colombian National Army. Colombian Armed Forces Advisor.
+```
 ##### Education
 ```
-Master's Degree in IT Security (MISTIC) (Expected March 2016)
-UOC - Universitat Oberta de Catalunya
+Master's Degree in IT Security (MISTIC) (Issued March 2016)
+UOC - Universitat Oberta de Catalunya (Spain)
 
-Master's Degree in System Security (Expected August 2011)
-UOC - Universitat Oberta de Catalunya
+Master's Degree in System Security (Issued August 2011)
+UOC - Universitat Oberta de Catalunya (Spain)
 
-Bachelor of Information System Administrator (Expected September 2008)
-Universidad Jorge Tadeo Lozano
+Bachelor of Management of Information Systems (Issued September 2008)
+Universidad Jorge Tadeo Lozano (Colombia)
 ```
 ##### Certifications
 ```
-Certified Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Expected November 2019)
-Certified Completion of Advanced IPv6 Course - LACNIC (Expected December 2018)
-Certified Completion of Basic IPv6 Course - LACNIC (Expected October 2018)
-Certified Lead Implementer Information Security Management Systems ISO/IEC 27001:2013 - IMS - (Expected May 2018)
-Certificate of Completion the Courses Nessus Pro - Tenable Network Security - (Expected January de 2016)
-Certificate Internal Auditor ISO / IEC 27001:2013 - Future Builders Colombia S.A. (Expected May 2015)
-PT – Licensed Penetration Tester - EC – COUNCIL (Expected March 2014)
-ECSA – EC-Council Certified Security Analyst – EC-COUNCIL (Expected October 2013)
-CHFI – Computer Hacking Forensic Investigator – EC-COUNCIL (Expected July 2013)
-CEH – Certified Ethical Hacker – EC-COUNCIL (Expected January 2013)
-Certified Digital Forensic Investigation – REDLIF - (Expected November 2012)
-CTI - Certified in intrusion tests - Exploit Pack – The future in Cyberwarefare - (Expected August 2012)
-CompTIA Security Plus + CERTIFIED - CompTIA (Expected December 2010)
-CFRI - Certified First Responder Incident - Adalid Abogados (Expected May 2010)
-QGCS - Qualys Guard Certified Specialist - Qualys Guard (Expected October 2009)
+Certifications
+Certificate of Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Issued November 2019)		           
+Certificate of Completion of Advanced IPv6 Course - LACNIC (Issued December 2018) 					
+Certificate of Completion of Basic IPv6 Course - LACNIC (Issued October 2018) 					           
+Lead Implementer Information Security Management Systems ISO/IEC 27001:2013 - IMS - (Issued May 2018) 		
+Certificate of Completion the Courses Nessus Professional Scanner - Tenable Network Security - (Issued January de 2016)
+Certificate Internal Auditor ISO / IEC 27001:2013 - Future Builders Colombia S.A. (Issued May 2015)			
+LPT – Licensed Penetration Tester - EC – COUNCIL (Issued March 2014)						           
+ECSA – EC-Council Certified Security Analyst – EC-COUNCIL (Issued October 2013)					
+CHFI – Computer Hacking Forensic Investigator – EC-COUNCIL (Issued July 2013)					
+CEH – Certified Ethical Hacker – EC-COUNCIL (Issued January 2013)						           
+Certificate in Digital Forensic Investigation – REDLIF - (Expected November 2012)					
+CTI - Certification in intrusion tests - Exploit Pack – The future in Cyberwarefare - (Issued August 2012)			
+CompTIA Security Plus + CERTIFIED - CompTIA (Issued December 2010)						     	
+CFRI - Certified First Responder Incident - Adalid Abogados (Issued May 2010)						
 ```
 ##### Skills, methodology and software
 ```
