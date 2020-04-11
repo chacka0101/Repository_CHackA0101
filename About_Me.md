@@ -11,13 +11,12 @@
 ###### Master's Degree in IT Security. Debian consultant. Python developer. Founder of "Hacking Command Center" project. More than 10 years’ experience in "Ethical Hacking", analyst of IT security in BRINKS, he has worked as coordinator of ethical hacking projects with Bank BBVA, BTCOM British Telecom, ACH Colombia, Aeronautica Civil of Colombia, among other important ones. companies in the oil and gas sector with Ecopetrol, Pacific Rubiales, Ocensa and Equion. Cybersecurity consultant at the following government organizations; Policía Nacional de Colombia, Fiscalia General de la nación, Ministerio de Defensa de Colombia and Armed Forces. Professor of "Cybercommands - cyberwarefare" module of "Advanced PenTesting" for the Colombian National Army. Colombian Armed Forces Advisor.
 
 ##### Education
-###### Master's Degree in IT Security (MISTIC) (Issued March 2016)
-###### UOC - Universitat Oberta de Catalunya (Spain)
-
-Master's Degree in Computer Security (Issued August 2011)
+```
+•	Master's Degree in IT Security (MISTIC) (Issued March 2016)
 UOC - Universitat Oberta de Catalunya (Spain)
-
-Bachelor of Management of Information Systems (Issued September 2008)
+•	Master's Degree in Computer Security (Issued August 2011)
+UOC - Universitat Oberta de Catalunya (Spain)
+•	Bachelor of Management of Information Systems (Issued September 2008)
 Universidad Jorge Tadeo Lozano (Colombia)
 ```
 ##### Certifications
