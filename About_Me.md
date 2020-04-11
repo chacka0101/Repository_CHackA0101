@@ -37,7 +37,7 @@ CTI - Certification in intrusion tests - Exploit Pack – The future in Cyberwar
 CompTIA Security Plus + CERTIFIED - CompTIA (Issued December 2010)						     	
 CFRI - Certified First Responder Incident - Adalid Abogados (Issued May 2010)						
 ```
-##### Skills, methodology and software
+##### Skills, Methodology and Software
 ```
 C, C++, python, HTML, SQL, BASH, Powershell, Debian, Ubuntu, Red Hat, Tails, Backtrack, Kali Linux, Exploit DataBase, NetHunter, Google Hacking, Database, Samurai web Testing distro, Windows Server, Windows 10, Active Directory, OpenOffice, Suite Microsoft Office, Office 365, sharepoint, Azure Cloud Services, Amazon Web Services, Google G-suite, SSL, Nmap, wireshark, Burpsuite, Nikto, Acunetix, OpenVas, Nessus Professional Feed, Qualys Guard, Metasploit, SET Social Engineer Toolkit, Netcat, Log Analysis, CAINE Computer Aide Investigation Environment, Autopsy, DEFT - Digital Evidence and Forensic Toolkit, MITRE ATT&CK Methodology, RED TEAM, Penetration Testing with Kali Linux - Penetration Testing Methodology, PCI Payment Card Industry, ISO 27001, ISO 27002, NIST, OWASP, OSSTMM, PTEST, SQL injection, Penetration Testing, IDS and IPS evasion, CEH trained, Security + Trained, OSI, TCP/IP. Physical social engineering. OT – System Controls, PLC, SCADA.
 ```
