@@ -7,7 +7,7 @@ Jairo A. Garcia H.
 - Debian consultant - https://www.debian.org/consultants/index.es.html#US
 - Company: THE EAGLE LABS International - https://www.theeaglelabs.com/
 
-### Education
+#### Education
 ```
 Master's Degree in IT Security (MISTIC) (Expected March 2016)
 UOC - Universitat Oberta de Catalunya
