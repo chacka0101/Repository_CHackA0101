@@ -7,101 +7,38 @@ Jairo A. Garcia H.
 - Debian consultant - https://www.debian.org/consultants/index.es.html#US
 - Company: THE EAGLE LABS International - https://www.theeaglelabs.com/
 
-Estudios - Certificaciones - Comunidad
---
-- Manejo en Lenguajes de programación C, C++, HTML, SQL y Python.
-- CPHP - Certificado Profesional de Hacking con Python (En curso)
-- Certificate of Lead Auditor ISO / IEC 27001:2013 – ERCA
-(Expedida 15 de noviembre de 2019) LL-C Services Colombia
-- Certificado de Aprovechamiento de Curso de IPv6 Avanzado 
-(Expedida 15 de diciembre de 2018) LACNIC
-- Certificado de Aprovechamiento de Curso de IPv6 Básico 
-(Expedida 1 de octubre de 2018) LACNIC
-- Lead Implementer Information Security Management Systems ISO/IEC 27001:2013
-(Expedida el 4 de mayo de 2018) Integrated Management Systems SAS
-- Entrevista en "Mundo Hacker" (Diciembre 2017) – [Canal 13]: https://www.youtube.com/watch?v=QV90EuDUHtE&list
-- Máster universitario en Seguridad de las TICs (MISTIC) – (Expedida el 10 de marzo de 2016)
-UOC - Universitat Oberta de Catalunya – Convalidado por el Ministerio de Educación de Colombia como MAGÍSTER EN SEGURIDAD DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y DE LAS COMUNICACIONES
-- Certificate of Completion the Courses Nessus Professional Scanner – (Expedida el 14 de enero de 2016)
-Tenable Network Security
-- Auditor Interno ISO - 27001:2013 – (Expedida el 26 de mayo de 2015)
-Future Builders Colombia S.A.
-- LPT – Licensed Penetration Tester – (Expedida el 6 de marzo de 2014)
-EC - COUNCIL
-- ECSA – EC-Council Certified Security Analyst – (Expedida el 4 de octubre de 2013)
-EC - COUNCIL
-- CHFI – Computer Hacking Forensic Investigator – (Expedida el 5 de julio de 2013)
-EC - COUNCIL
-- CEH – Certified Ethical Hacker – (Expedida el 25 enero de 2013)
-EC - COUNCIL
-- CIDF – Certificado en Investigación Digital Forense – (Expedida en noviembre de 2012)
-REDLIF - Red Latinoamericana de Informática Forense
-- CTI – Certificación en testeos de intrusión – (Expedida en agosto de 2012)
-Exploit Pack – The future in cyberwarefare
-- Máster en Seguridad Informática – (Expedida el 2 de agosto de 2011)
+### Education
+```
+Master's Degree in IT Security (MISTIC) (Expected March 2016)						     	                                                2016
 UOC - Universitat Oberta de Catalunya
-- CompTIA Security Plus + CERTIFIED - (Expedida el 7 de diciembre de 2010)
-CompTIA
-- CFRI - Certified First Responder Incident - (Expedida el 22 de mayo de 2010)
-Adalid Abogados
-- QGCS - Qualys Guard Certified Specialist - (Expedida en octubre de 2009)
-Qualys Guard
-- Profesional Administrador de Sistemas de Información - (Expedida el 25 de septiembre de 2008)
+
+Master's Degree in System Security (Expected August 2011)                                                                     2011 
+UOC - Universitat Oberta de Catalunya
+
+Bachelor of Information System Administrator (Expected September 2008)						                                            2008
 Universidad Jorge Tadeo Lozano
-
-Investigación y Docencia
----
-- Docente del Curso de "CIBERCOMANDOS - GUERRA CIBERNETICA" módulo de "PenTesting Avanzado" - EJERCITO NACIONAL DE COLOMBIA - Escuela de Comunicaciones ESCOM.
-Bogotá, 15 de Diciembre 2018.
-- Docente Seminario de informática forense para la Registraduría Nacional del Estado Civil -
-Universidad Sergio Arboleda (Maestría Derecho - Doctorado Derecho).
-Bogotá, 3 de Octubre de 2018.
-- Docente Especialización en Informática Forense y Gerencia en Telemática -
-Módulo de Especialización en Informática Forense y Gerencia en Telemática
-Policía Nacional de Colombia (Área de Telemática).
-Bogotá, 13 de junio de 2017.
-- Docente Diplomado de Seguridad de la Información
-Módulo de Hacking ético
-Policía Nacional de Colombia (Área de Telemática).
-Bogotá, 29 de julio de 2013.
-- Docente Diplomado de Seguridad Informática -
-Módulo de Hacking ético
-Corporación Universitaria Minuto de Dios -
-Bogotá, 1 de marzo de 2013 a 9 de marzo de 2013.
-- Docente Programa de Tecnología en Redes de Computadores y Seguridad Informática -
-Asignaturas de Informática Forense y Seguridad en Redes
-Corporación Universitaria Minuto de Dios -
-Bogotá, 13 de junio de 2011 a 14 de noviembre de 2011.
-- Docente de Especialización Modulo de Hacking Ético -
-Universidad Autónoma - Bogotá, 1er Semestre de 2011
-- Placa de Expresión de Gratitud y Reconocimiento de participación de 2do congreso de Hacking Ético - Programa de Tecnología en Redes de Computadores y Seguridad Informática - Corporación Universitaria Minuto de Dios
-- Tesis de Grado. “AIO CRM (Artificial Intelligence Owners – Customer Relationship Management)” 
-Publicada como una de las mejores Tesis en el año 2008, Revista No. 107 de ACIS (Asociación Colombiana de Ingenieros de Sistemas).
-Bogotá, agosto de 2007.
-
-Ponencias - Participaciones en cursos
----
-- Ponente del CYBERSECURITY DAYS (Octubre de 2018) 
-Universidad POLITECNICO GRANCOLOMBIANO
-- Ponente de la II Jornada de Redes y Seguridad Informática ECCISEC (Abril de 2018) 
-Universidad ECCI
-- Ponente del II Simposio de Delitos Informáticos - (Noviembre 2017)
-Fiscalía General de la Nación – Cali, Colombia
-- Participa del Curso ATM Security - (Junio 2013)
-Liquid Nexxus – Bogotá, Colombia
-- Participa en el Curso Norma PCI DSS 2.0 - (Octubre 2012)
-IQ Information Quality – Bogotá, Colombia
-- Participa el curso de Fraude Informático - (Agosto 2012)
-Policía Nacional – Bogotá, Colombia
-- Ponente del 1er Congreso de Tecnologías Abiertas CTA- UL - (Abril 2012)
-Universidad Libre – Bogotá, Colombia
-- Ponente Curso Primeros Respondientes Incidentes Informáticos - (Mayo 2010)
-Adalid Abogados – Bogotá, Colombia
-- Ponente en el 2do Congreso de Hacking Ético y Computo Forense - Universidad Minuto de Dios (Noviembre 2009) Programa de Tecnología en Redes de Computadores y Seguridad Informática de la Corporación Universitaria Minuto de Dios – UNIMINUTO
-- Ponente del III Encuentro Internacional de Seguridad Informática (EISI) – (Octubre 2009). Universidad de Manizales – Manizales, Colombia
-- Participa en el II Foro de Seguridad Informática Empresarial - Kevin Mitnick (Septiembre 2008) Enter y casa editorial EL TIEMPO – Bogotá, Colombia
-- Ponente en el 1er Congreso de Hacking Ético y Computo Forense - Universidad Minuto de Dios (Mayo 2008) Programa de Tecnología en Redes de Computadores y Seguridad Informática de la Corporación Universitaria Minuto de Dios – UNIMINUTO
-- Participa en el Encuentro Internacional de Hackers (Agosto 2004)
-Universidad de Manizales – Manizales, Colombia
+```
+### Certifications
+```
+Certified Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Expected November 2019)		                      2019
+Certified Completion of Advanced IPv6 Course - LACNIC (Expected December 2018) 					                                      2018
+Certified Completion of Basic IPv6 Course - LACNIC (Expected October 2018) 					                                          2018
+Certified ead Implementer Information Security Management Systems ISO/IEC 27001:2013 - IMS - (Expected May 2018) 		          2018
+Certificate of Completion the Courses Nessus Professional Scanner - Tenable Network Security - (Expected January de 2016)	    2016
+Certificate Internal Auditor ISO / IEC 27001:2013 - Future Builders Colombia S.A. (Expected May 2015)			                    2015
+PT – Licensed Penetration Tester - EC – COUNCIL (Expected March 2014)						                                              2014
+ECSA – EC-Council Certified Security Analyst – EC-COUNCIL (Expected October 2013)					                                    2013
+CHFI – Computer Hacking Forensic Investigator – EC-COUNCIL (Expected July 2013)					                                      2013
+CEH – Certified Ethical Hacker – EC-COUNCIL (Expected January 2013)						                                                2013
+Certified Digital Forensic Investigation – REDLIF - (Expected November 2012)					                                        2012
+CTI - Certified in intrusion tests - Exploit Pack – The future in Cyberwarefare - (Expected August 2012)			                2012
+CompTIA Security Plus + CERTIFIED - CompTIA (Expected December 2010)						                                              2010
+CFRI - Certified First Responder Incident - Adalid Abogados (Expected May 2010)					                                      2010
+QGCS - Qualys Guard Certified Specialist - Qualys Guard (Expected October 2009)					                                      2009
+```
+###  Organization Memberships and Volunteering
+•	Debian Consultant - https://www.debian.org/consultants/
+•	Kali Linux Community - https://www.kali.org/community/
+•	Passionate about ethical hacking – https://hackingcommandcenter.com/
 ---
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/hacker.png)
