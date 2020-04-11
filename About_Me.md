@@ -57,9 +57,9 @@ CFRI - Certified First Responder Incident - Adalid Abogados (Issued May 2010)
 •	First Congress “Open Technologies”: Speaker - Universidad Libre – Bogotá, Colombia (April 2012)
 •	Course First Respondents Computer Incidents: Speaker - Adalid Abogados – Bogotá, Colombia (May 2010)
 •	Second Congress Ethical Hacking and Forensic Computing: Speaker - Universidad Minuto de Dios (November 2009) 
-•	III International Meeting on IT Security (EISI): Speaker – Universidad de Manizales – Manizales, Colombia, (October 2009). 
-•	Second Business Information Security Forum: Participant - Enter, EL TIEMPO – Bogotá, Colombia, Kevin Mitnick (September 2008) 
-•	Fist Congress ethical Hacking and computer forensic: Speaker - Universidad Minuto de Dios (May 2008) 
+•	Third International Meeting on IT Security (EISI):Speaker–Universidad de Manizales–Manizales,Colombia,(October 2009).
+•	Second Business Information Security Forum:Participant-Enter, EL TIEMPO – Bogotá,Colombia, Kevin Mitnick.(September 2008) 
+•	Fist Congress ethical Hacking and computer forensic: Speaker - Universidad Minuto de Dios (May 2008)
 •	Congress International of Hackers: Participant - Universidad de Manizales – Manizales, Colombia. (August 2004)
 ```
 ---
