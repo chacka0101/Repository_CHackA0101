@@ -49,4 +49,4 @@ C, C++, python, HTML, SQL, BASH, Powershell, Debian, Ubuntu, Red Hat, Tails, Bac
 •	Hacking Command Center              http://hackingcommandcenter.com
 ```
 ---
-###### Passionate about hacking    http://catb.org/jargon/html/ ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/hacker.png)
+###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/hacker.png) Passionate about hacking    http://catb.org/jargon/html/ 
