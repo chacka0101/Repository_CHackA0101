@@ -45,7 +45,8 @@ C, C++, python, HTML, SQL, BASH, Powershell, Debian, Ubuntu, Red Hat, Tails, Bac
 ```
 •	Debian Consultant                   https://www.debian.org/consultants/
 •	Kali Linux Community                https://www.kali.org/community/
-•	Passionate about ethical hacking    https://hackingcommandcenter.com/
+•	Passionate about ethical hacking    http://catb.org/jargon/html/
+•	Hacking Command Center              http://hackingcommandcenter.com
 ```
 ---
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/hacker.png)
