@@ -14,8 +14,10 @@
 ```
 •	Master's Degree in IT Security (MISTIC) (Issued March 2016)
         UOC - Universitat Oberta de Catalunya (Spain)
+        
 •	Master's Degree in Computer Security (Issued August 2011)
         UOC - Universitat Oberta de Catalunya (Spain)
+        
 •	Bachelor of Management of Information Systems (Issued September 2008)
         Universidad Jorge Tadeo Lozano (Colombia)
 ```
