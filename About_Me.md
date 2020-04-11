@@ -2,9 +2,9 @@
 
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/Jairo_A_Garcia_H.jpg?raw=true)
 ```
-- Codename: CHackA0101 (Colombia Hacking Agent 0101)
-- Tarjeta Profesional COPNIA: Con más de diez (10) años de experiencia certificada (TP expedida en 2010) 
-- Email: chacka0101 @ gmail . com
+•	Codename: CHackA0101 (Colombia Hacking Agent 0101)
+•	COPNIA Professional Card: With more than ten (10) years of certified experience (Expected 2010)
+•	Email: chacka0101 @ gmail . com
 ```
 ##### Education
 ```
@@ -34,6 +34,10 @@ CTI - Certified in intrusion tests - Exploit Pack – The future in Cyberwarefar
 CompTIA Security Plus + CERTIFIED - CompTIA (Expected December 2010)
 CFRI - Certified First Responder Incident - Adalid Abogados (Expected May 2010)
 QGCS - Qualys Guard Certified Specialist - Qualys Guard (Expected October 2009)
+```
+##### Skills, methodology and software
+```
+C, C++, python, HTML, SQL, BASH, Powershell, Debian, Ubuntu, Red Hat, Tails, Backtrack, Kali Linux, Exploit DataBase, NetHunter, Google Hacking, Database, Samurai web Testing distro, Windows Server, Windows 10, Active Directory, OpenOffice, Suite Microsoft Office, Office 365, sharepoint, Azure Cloud Services, Amazon Web Services, Google G-suite, SSL, Nmap, wireshark, Burpsuite, Nikto, Acunetix, OpenVas, Nessus Professional Feed, Qualys Guard, Metasploit, SET Social Engineer Toolkit, Netcat, Log Analysis, CAINE Computer Aide Investigation Environment, Autopsy, DEFT - Digital Evidence and Forensic Toolkit, MITRE ATT&CK Methodology, RED TEAM, Penetration Testing with Kali Linux - Penetration Testing Methodology, PCI Payment Card Industry, ISO 27001, ISO 27002, NIST, OWASP, OSSTMM, PTEST, SQL injection, Penetration Testing, IDS and IPS evasion, CEH trained, Security + Trained, OSI, TCP/IP. Physical social engineering. OT – System Controls, PLC, SCADA.
 ```
 ##### Organization Memberships and Volunteering
 ```
