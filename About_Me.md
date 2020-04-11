@@ -34,7 +34,7 @@ ECSA – EC-Council Certified Security Analyst – EC-COUNCIL (Issued October 20
 CHFI – Computer Hacking Forensic Investigator – EC-COUNCIL (Issued July 2013)
 CEH – Certified Ethical Hacker – EC-COUNCIL (Issued January 2013)
 Certified Digital Forensic Investigation – REDLIF - (Expected November 2012)
-CTI - Certification in intrusion tests - Exploit Pack – The future in Cyberwarefare - (Issued August 2012)
+CTI - Certified in intrusion tests - Exploit Pack – The future in Cyberwarefare - (Issued August 2012)
 CompTIA Security Plus + Certified - CompTIA (Issued December 2010)
 CFRI - Certified First Responder Incident - Adalid Abogados (Issued May 2010)
 ```
