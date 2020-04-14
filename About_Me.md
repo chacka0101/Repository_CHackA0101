@@ -58,7 +58,7 @@
 ###### C, C++, python, HTML, SQL, BASH, Debian, Ubuntu, Red Hat, Tails, Backtrack, Kali Linux, Exploit DataBase, NetHunter, Google Hacking, Database, Samurai web Testing distro,OpenOffice, Amazon Web Services, Google G-suite, SSL, Nmap, wireshark, Burpsuite, Nikto, Acunetix, OpenVas, Nessus Professional Feed, Qualys Guard, Metasploit, SET Social Engineer Toolkit, Netcat, Log Analysis, CAINE Computer Aide Investigation Environment, Autopsy, DEFT - Digital Evidence and Forensic Toolkit, MITRE ATT&CK Methodology, RED TEAM, Penetration Testing with Kali Linux - Penetration Testing Methodology, PCI Payment Card Industry, ISO 27001, ISO 27002, NIST, OWASP, OSSTMM, PTEST, SQL injection, Penetration Testing, IDS and IPS evasion, CEH trained, Security + Trained, OSI, TCP/IP. Physical social engineering. OT – System Controls, PLC, SCADA.
 
 ##### Organization Memberships and Volunteering
-###### •	Debian Consultant                       https://www.debian.org/consultants/
+###### •	Debian Consultant                       https://www.debian.org/consultants/#US
 ###### •	Kali Linux Community                    https://www.kali.org/community/
 ###### •	Hacking Command Center                  http://hackingcommandcenter.com
 ---
