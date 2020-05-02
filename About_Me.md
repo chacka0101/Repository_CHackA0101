@@ -1,4 +1,4 @@
-## Jairo A. Garcia H.
+## Alonso Garcia
 
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/Jairo_A_Garcia_H.jpg?raw=true)
 ```
