@@ -65,7 +65,7 @@ Kevin Mitnick (September 2008)
 Bogotá, March 1, 2013 to March 9, 2013.
 •	Professor of Computer Network Technology and Computer Security Program - Subjects of Forensic Computing and Network Security. Minuto de Dios University Corporation - Bogotá, June 13, 2011 to November 14, 2011.
 •	Professor of Specialization in Ethical Hacking Module - Autonoma University - Bogotá, 1st Semester of 2011.
-•	Award Reseach Ethical Hacking Conference - Plaque of Expression of Gratitude and Acknowledgment of participation in the 2nd Congress of Ethical Hacking - Technology Program in Computer Networks and Computer Security - University Corporation Minuto de Dios.
+•	Award Research Ethical Hacking Conference - Plaque of Expression of Gratitude and Acknowledgment of participation in the 2nd Congress of Ethical Hacking - Technology Program in Computer Networks and Computer Security - University Corporation Minuto de Dios.
 •	Award Degree Thesis. “AIO CRM (Artificial Intelligence Owners – Customer Relationship Management)”  Published as one of the best thesis 2008, ACIS Magazine No. 107 (Asociación Colombiana de Ingenieros de Sistemas). Bogotá, August 2007. (https://acis.org.co/archivos/Revista/107/Revista%20Sistemas%20Edici%C3%B3n%20107.pdf)
 ```
 ##### Skills, Methodology and Software
