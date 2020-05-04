@@ -40,33 +40,33 @@ Universidad Jorge Tadeo Lozano (Colombia)
 ##### Speaker and Courses
 ```
 • Cybersecurity days: Speaker - Universidad Politécnico Grancolombiano (October de 2018) 
-•	Second Conference Networking and IT Security: Speaker - Universidad ECCI (April de 2018) 
-•	Second Symposium cybercrime: Speaker - Fiscalía General de la Nación – Cali, Colombia (November 2017)
-•	Course ATM Security: Participant - Liquid Nexxus – Bogotá, Colombia. (Jun 2013)
-•	Course PCI DSS 2.0: Participant - IQ Information Quality – Bogotá, Colombia (October 2012)
-•	Course Computer Fraud: Speaker - Policía Nacional – Bogotá, Colombia. (August 2012)
-•	First Congress “Open Technologies”: Speaker - Universidad Libre – Bogotá, Colombia (April 2012)
-•	Course First Respondents Computer Incidents: Speaker - Adalid Abogados – Bogotá, Colombia (May 2010)
-•	Second Congress Ethical Hacking and Forensic Computing: Speaker - Universidad Minuto de Dios (November 2009) 
-•	Third International Meeting on IT Security (EISI): Speaker – Universidad de Manizales – Manizales, Colombia
+• Second Conference Networking and IT Security: Speaker - Universidad ECCI (April de 2018) 
+• Second Symposium cybercrime: Speaker - Fiscalía General de la Nación – Cali, Colombia (November 2017)
+• Course ATM Security: Participant - Liquid Nexxus – Bogotá, Colombia. (Jun 2013)
+• Course PCI DSS 2.0: Participant - IQ Information Quality – Bogotá, Colombia (October 2012)
+• Course Computer Fraud: Speaker - Policía Nacional – Bogotá, Colombia. (August 2012)
+• First Congress “Open Technologies”: Speaker - Universidad Libre – Bogotá, Colombia (April 2012)
+• Course First Respondents Computer Incidents: Speaker - Adalid Abogados – Bogotá, Colombia (May 2010)
+• Second Congress Ethical Hacking and Forensic Computing: Speaker - Universidad Minuto de Dios (November 2009) 
+• Third International Meeting on IT Security (EISI): Speaker – Universidad de Manizales – Manizales, Colombia
 (October 2009). 
-•	Second Business Information Security Forum: Participant - Enter y casa editorial EL TIEMPO – Bogotá, Colombia
+• Second Business Information Security Forum: Participant - Enter y casa editorial EL TIEMPO – Bogotá, Colombia
 Kevin Mitnick (September 2008) 
-•	First Congress ethical Hacking and computer forensic: Speaker - Universidad Minuto de Dios (May 2008) 
-•	Congress International of Hackers: Participant - Universidad de Manizales – Manizales, Colombia. (August 2004
+• First Congress ethical Hacking and computer forensic: Speaker - Universidad Minuto de Dios (May 2008) 
+• Congress International of Hackers: Participant - Universidad de Manizales – Manizales, Colombia. (August 2004
 ```
 ##### Research and Tuition 
 ```
-•	Professor course of "CYBER COMMANDS - CYBER WAR", module of "Advanced PenTesting" - NATIONAL ARMY OF COLOMBIA - ESCOM School of Communications. Bogotá, December 15, 2018.
-•	Professor of forensic informatics seminar for the National Registry of Civil Status - Sergio Arboleda University (Master of Law - Law Doctorate). Bogotá, October 3, 2018.
-•	Professor Specialization in Forensic Computing and Telematics Management - Specialization Module in Forensic Computing and Telematics Management National Police of Colombia (Telematics Area). Bogotá, June 13, 2017
-•	Professor Information Security Specialist Ethical Hacking Module Colombian National Police (Telematics Area). Bogotá, July 29, 2013.
-•	Professor Computer Security Specialist - Ethical Hacking Module - Minuto de Dios University Corporation -
+• Professor course of "CYBER COMMANDS - CYBER WAR", module of "Advanced PenTesting" - NATIONAL ARMY OF COLOMBIA - ESCOM School of Communications. Bogotá, December 15, 2018.
+• Professor of forensic informatics seminar for the National Registry of Civil Status - Sergio Arboleda University (Master of Law - Law Doctorate). Bogotá, October 3, 2018.
+• Professor Specialization in Forensic Computing and Telematics Management - Specialization Module in Forensic Computing and Telematics Management National Police of Colombia (Telematics Area). Bogotá, June 13, 2017
+• Professor Information Security Specialist Ethical Hacking Module Colombian National Police (Telematics Area). Bogotá, July 29, 2013.
+• Professor Computer Security Specialist - Ethical Hacking Module - Minuto de Dios University Corporation -
 Bogotá, March 1, 2013 to March 9, 2013.
-•	Professor of Computer Network Technology and Computer Security Program - Subjects of Forensic Computing and Network Security. Minuto de Dios University Corporation - Bogotá, June 13, 2011 to November 14, 2011.
-•	Professor of Specialization in Ethical Hacking Module - Autonoma University - Bogotá, 1st Semester of 2011.
-•	Award Research Ethical Hacking Conference - Plaque of Expression of Gratitude and Acknowledgment of participation in the 2nd Congress of Ethical Hacking - Technology Program in Computer Networks and Computer Security - University Corporation Minuto de Dios.
-•	Award Degree Thesis. “AIO CRM (Artificial Intelligence Owners – Customer Relationship Management)”  Published as one of the best thesis 2008, ACIS Magazine No. 107 (Asociación Colombiana de Ingenieros de Sistemas). Bogotá, August 2007. (https://acis.org.co/archivos/Revista/107/Revista%20Sistemas%20Edici%C3%B3n%20107.pdf)
+• Professor of Computer Network Technology and Computer Security Program - Subjects of Forensic Computing and Network Security. Minuto de Dios University Corporation - Bogotá, June 13, 2011 to November 14, 2011.
+• Professor of Specialization in Ethical Hacking Module - Autonoma University - Bogotá, 1st Semester of 2011.
+• Award Research Ethical Hacking Conference - Plaque of Expression of Gratitude and Acknowledgment of participation in the 2nd Congress of Ethical Hacking - Technology Program in Computer Networks and Computer Security - University Corporation Minuto de Dios.
+• Award Degree Thesis. “AIO CRM (Artificial Intelligence Owners – Customer Relationship Management)”  Published as one of the best thesis 2008, ACIS Magazine No. 107 (Asociación Colombiana de Ingenieros de Sistemas). Bogotá, August 2007. (https://acis.org.co/archivos/Revista/107/Revista%20Sistemas%20Edici%C3%B3n%20107.pdf)
 ```
 ##### Skills, Methodology and Software
 ###### C, C++, Python, HTML, SQL, BASH, Powershell, Debian, Ubuntu, Red Hat, Tails, Backtrack, Kali Linux, Exploit DataBase, NetHunter, Google Hacking, Database, Samurai web Testing distro, Windows Server, Windows 10, Active Directory, OpenOffice, Suite Microsoft Office, Office 365, sharepoint, Azure Cloud Services, Amazon Web Services, Google G-suite, SSL, Nmap, wireshark, Burpsuite, Nikto, Acunetix, OpenVas, Nessus Professional Feed, Qualys Guard, Metasploit, SET Social Engineer Toolkit, Netcat, Log Analysis, CAINE Computer Aide Investigation Environment, Autopsy, DEFT - Digital Evidence and Forensic Toolkit, MITRE ATT&CK Methodology, RED TEAM, Penetration Testing with Kali Linux - Penetration Testing Methodology, PCI Payment Card Industry, ISO 27001, ISO 27002, NIST, OWASP, OSSTMM, PTEST, SQL injection, Penetration Testing, IDS and IPS evasion, CEH trained, Security + Trained, OSI, TCP/IP. Physical social engineering. OT – System Controls, PLC, SCADA.
