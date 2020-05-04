@@ -39,7 +39,7 @@ Universidad Jorge Tadeo Lozano (Colombia)
 ```
 ##### Speaker and Courses
 ```
-•	Cybersecurity days: Speaker - Universidad Politécnico Grancolombiano (October de 2018) 
+• Cybersecurity days: Speaker - Universidad Politécnico Grancolombiano (October de 2018) 
 •	Second Conference Networking and IT Security: Speaker - Universidad ECCI (April de 2018) 
 •	Second Symposium cybercrime: Speaker - Fiscalía General de la Nación – Cali, Colombia (November 2017)
 •	Course ATM Security: Participant - Liquid Nexxus – Bogotá, Colombia. (Jun 2013)
