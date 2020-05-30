@@ -34,7 +34,7 @@ Universidad Jorge Tadeo Lozano (Colombia)
 • Certified CHFI – Computer Hacking Forensic Investigator – EC-COUNCIL (Issued July 2013)
 • Certified CEH – Certified Ethical Hacker – EC-COUNCIL (Issued January 2013)
 • Certified Digital Forensic Investigation – REDLIF - (Expected November 2012)
-• Certified CTI - Certification in intrusion tests - Exploit Pack – The future in Cyberwarefare-(Issued August 2012)
+• Certified CTI - Certification in intrusion tests -Exploit Pack– The future in Cyberwarefare-(Issued August 2012)
 • Certified CompTIA Security Plus + Certified - CompTIA (Issued December 2010)
 • Certified QGCS - Qualys Guard Certified Specialist - Qualys Guard (Issued October 2009)
 ```
