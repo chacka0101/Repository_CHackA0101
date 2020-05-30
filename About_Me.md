@@ -22,6 +22,7 @@ Universidad Jorge Tadeo Lozano (Colombia)
 ```
 ##### Certifications
 ```
+• Certified Cybersecurity Manager ISO / IEC 27032:2012 - ERCA - LL-C Services Colombia (Issued May 2020)
 • Certified Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Issued November 2019)
 • Certified Completion of Advanced IPv6 Course - LACNIC (Issued December 2018)
 • Certified Completion of Basic IPv6 Course - LACNIC (Issued October 2018)
