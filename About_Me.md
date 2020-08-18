@@ -75,7 +75,7 @@ Bogotá, March 1, 2013 to March 9, 2013.
 ##### Organization Memberships and Volunteering
 ###### •	Debian Consultant                       https://www.debian.org/consultants/#US
 ###### •	Community Offensive Security            https://community.offensive-security.com/
-###### •	Hacking Command Center                  http://hackingcommandcenter.com
+###### •	Hacking Command Center                  https://hackingcommandcenter.com
 ###### •	HTB - Hack The Box                      https://www.hackthebox.eu/profile/198382
 ---
 
