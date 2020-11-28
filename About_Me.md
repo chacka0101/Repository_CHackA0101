@@ -22,10 +22,11 @@ Universidad Jorge Tadeo Lozano (Colombia)
 ```
 ##### Certifications
 ```
+• Certified IPv6 Forum Gold Engineer (Issued Jul 2020)
+• Certified IPv6 Forum Silver Engineer (Issued Jun 2020)
 • Certified Cybersecurity Manager ISO / IEC 27032:2012 - ERCA - LL-C Services Colombia (Issued May 2020)
 • Certified Lead Auditor ISO / IEC 27001:2013 - ERCA - LL-C Services Colombia (Issued November 2019)
 • Certified Completion of Advanced IPv6 Course - LACNIC (Issued December 2018)
-• Certified Completion of Basic IPv6 Course - LACNIC (Issued October 2018)
 • Certified Lead Implementer Information Security Management Systems ISO/IEC 27001:2013-IMS-(Issued May 2018)
 • Certified Completion the Courses Nessus Professional Scanner - Tenable Network Security-(Issued January de 2016)
 • Certified Internal Auditor ISO / IEC 27001:2013 - Future Builders Colombia S.A. (Issued May 2015)
