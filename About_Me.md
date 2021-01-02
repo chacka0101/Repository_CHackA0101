@@ -80,4 +80,6 @@ Bogotá, March 1, 2013 to March 9, 2013.
 ###### •	HTB - Hack The Box                      https://www.hackthebox.eu/profile/198382
 ---
 
+###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/insecure.png) Hacker Encyclopedia    https://insecure.org/stf/hackenc.txt 
+
 ###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/hacker.png) Passionate about hacking    http://catb.org/jargon/html/ 
