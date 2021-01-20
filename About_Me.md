@@ -77,7 +77,7 @@ Bogotá, March 1, 2013 to March 9, 2013.
 ###### •	Debian Consultant                       https://www.debian.org/consultants/#US
 ###### •	HOPE                                    https://hope.net/
 ###### •	Hacking Command Center                  https://hackingcommandcenter.com
-###### •	HTB - Hack The Box                      https://www.hackthebox.eu/profile/198382
+###### •	HTB - Hack The Box                      [ ![Relwarc17](https://www.hackthebox.eu/badge/image/42767)](https://www.hackthebox.eu/home/users/profile/42767)
 ---
 ###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/insecure.png) Hacker Encyclopedia    https://insecure.org/stf/hackenc.txt 
 
