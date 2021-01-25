@@ -2,7 +2,7 @@
 
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/chacka.png?raw=true)
 
-[ ![CHackA0101](https://www.hackthebox.eu/badge/image/198382.png)](https://www.hackthebox.eu/home/users/profile/198382)
+[ ![CHackA0101](https://www.hackthebox.eu/badge/image/198382.jpg)](https://www.hackthebox.eu/home/users/profile/198382)
 
 ```
 • Codename: Jairo Garcia - CHackA0101
