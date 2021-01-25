@@ -2,7 +2,7 @@
 
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/chacka.png?raw=true)
 
-[ ![CHackA0101](https://www.hackthebox.eu/badge/image/198382)](https://app.hackthebox.eu/profile/198382)
+[ ![CHackA0101](https://www.hackthebox.eu/storage/avatars/412a39869027811bfafad6c876440c51.png?v=1)](https://app.hackthebox.eu/profile/198382)
 ```
 • Codename: Jairo Garcia - CHackA0101
 • COPNIA Professional Card: With more than ten (10) years of certified experience (Expected 2010)
