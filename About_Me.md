@@ -4,7 +4,6 @@
 
 [ ![CHackA0101](https://www.hackthebox.eu/badge/image/198382)](https://www.hackthebox.eu/home/users/profile/198382)
 
-
 ```
 • Codename: Jairo Garcia - CHackA0101
 • COPNIA Professional Card: With more than ten (10) years of certified experience (Expected 2010)
