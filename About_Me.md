@@ -5,7 +5,10 @@
 [![CHackA0101](http://www.hackthebox.eu/badge/image/198382)](https://app.hackthebox.eu/profile/198382)
 
 ```
-• Codename: CHackA0101 (Jairo Garcia)
+Python 3.8.0 (default, Nov 14 2019, 22:29:45) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+• >>> Codename: CHackA0101 (Jairo Garcia)
 • COPNIA Professional Card: With more than ten (11) years of certified experience (Expected 2010)
 • chacka0101 @ gmail . com
 • Official Website: https://github.com/chacka0101/
