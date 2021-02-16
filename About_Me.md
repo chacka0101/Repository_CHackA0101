@@ -11,7 +11,7 @@ Python 3.8.0 (default, Nov 14 2019, 22:29:45)
 [GCC 5.4.0 20160609] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> Codename = 'CHackA0101 (Jairo Garcia)'
->>> Email = 'chacka0101@gmail.com'
+>>> Email = 'chacka0101 @ gmail . com'
 >>> Copnia_Professional_Card = 'With more than ten (11) years of certified experience (Expected 2010)'
 >>> Official_Website = 'https://github.com/chacka0101'
 ```
