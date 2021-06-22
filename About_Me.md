@@ -3,20 +3,11 @@
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/chacka0101.png?raw=true)
 
 [![CHackA0101](http://www.hackthebox.eu/badge/image/198382)](https://app.hackthebox.eu/profile/198382)
-
 ```
-┌──(root💀kali)-[/home/chacka0101]
-└─# python
-Python 3.8.0 (default, Nov 14 2019, 22:29:45) 
-[GCC 5.4.0 20160609] on linux
-Type "help", "copyright", "credits" or "license" for more information.
->>> Codename = 'CHackA0101 (Jairo Garcia)'
->>> Email = 'chacka0101 @ gmail . com'
->>> Copnia_Professional_Card = 'With more than ten (11) years of certified experience (Expected 2010)'
->>> Official_Website = 'https://github.com/chacka0101'
 ```
-##### Career Overview 
-###### Master's Degree in IT Security. Debian consultant. Python developer. Founder of "Hacking Command Center" project. More than 11 years’ experience in "Ethical Hacking", analyst of IT security in BRINKS, he has worked as coordinator of ethical hacking projects with Bank BBVA, BTCOM British Telecom, ACH Colombia, Aeronautica Civil of Colombia, among other important ones. Companies part of the oil and gas sector like Ecopetrol, Pacific Rubiales, Ocensa and Equion. Cybersecurity consultant at the following government organizations; Policía Nacional de Colombia, Fiscalia General de la nación, Ministerio de Defensa de Colombia and Armed Forces. Professor of "Cybercommands - cyberwarefare" module of "Advanced PenTesting" for the Colombian National Army. Colombian Armed Forces Advisor. Interview (https://www.youtube.com/watch?v=QV90EuDUHtE)
+##### Exploits Dev
+###### Oracle WebLogic Server 12.2.1.0 - RCE (Unauthenticated): https://www.exploit-db.com/exploits/49479
+```
 ##### Education
 ```
 • Master's Degree in IT Security (MISTIC) (Issued March 2016)
