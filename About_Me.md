@@ -6,8 +6,7 @@
 
 ##### Exploit Author
 ###### Oracle WebLogic Server 12.2.1.0 - RCE (Unauthenticated): https://www.exploit-db.com/exploits/49479
-```
-```
+
 ##### Education
 ```
 • Master's Degree in IT Security (MISTIC) (Issued March 2016)
