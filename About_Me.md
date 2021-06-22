@@ -3,9 +3,8 @@
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/chacka0101.png?raw=true)
 
 [![CHackA0101](http://www.hackthebox.eu/badge/image/198382)](https://app.hackthebox.eu/profile/198382)
-```
-```
-##### Exploits Dev
+
+##### Exploit Author
 ###### Oracle WebLogic Server 12.2.1.0 - RCE (Unauthenticated): https://www.exploit-db.com/exploits/49479
 ```
 ```
