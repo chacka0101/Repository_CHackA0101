@@ -2,7 +2,7 @@
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/chacka0101-github.png?raw=true)
 [![CHackA0101](http://www.hackthebox.eu/badge/image/198382)](https://app.hackthebox.eu/profile/198382)
 ##### Exploit Author
-###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/0dayToday.png?raw=true) VMware vCenter Server RCE 6.5 / 6.7 / 7.0 - Remote Code Execution (RCE) (Unauthenticated) - CVE-2021-21972: https://0day.today/exploit/36472
+###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/0DayToday01.png?raw=true) VMware vCenter Server RCE 6.5 / 6.7 / 7.0 - Remote Code Execution (RCE) (Unauthenticated) - CVE-2021-21972: https://0day.today/exploit/36472
 ###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/exploit-db-1.png?raw=true) Oracle WebLogic Server 12.2.1.0 - RCE (Unauthenticated) - CVE-2020-14882: https://www.exploit-db.com/exploits/49479
 ###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/kali-icon-1.png?raw=true) Bash Script Kali Recognition: https://raw.githubusercontent.com/chacka0101/OS_Shell_Scripts/master/kali-recon-script-v2.2.sh
 ##### Education
