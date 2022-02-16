@@ -5,15 +5,14 @@
 ###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/0.png?raw=true) VMware vCenter Server RCE 6.5 / 6.7 / 7.0 - Remote Code Execution (RCE) (Unauthenticated) - CVE-2021-21972: https://0day.today/exploit/36472
 ###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/exploit-db-1.png?raw=true) Oracle WebLogic Server 12.2.1.0 - RCE (Unauthenticated) - CVE-2020-14882: https://www.exploit-db.com/exploits/49479
 ###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/kali-icon-1.png?raw=true) Bash Script Kali Recognition: https://raw.githubusercontent.com/chacka0101/OS_Shell_Scripts/master/kali-recon-script-v2.3.sh
+##### INTERVIEW
+Interview MUNDO HACKER: https://www.youtube.com/watch?v=QV90EuDUHtEe
 ##### Education
 ```
 • Master's Degree in IT Security (MISTIC) (Issued March 2016)
 • Master's Degree in System Security (Issued August 2011)
 • Bachelor of Management of Information Systems (Issued September 2008)
 ```
-##### INTERVIEW
-Interview MUNDO HACKER: https://www.youtube.com/watch?v=QV90EuDUHtEe
-
 ##### Certifications
 ```
 • Certified IPv6 Forum Gold Engineer (Issued Jul 2020)
