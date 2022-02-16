@@ -12,7 +12,7 @@
 • Bachelor of Management of Information Systems (Issued September 2008)
 ```
 ##### INTERVIEW
-Interview MUNDO HACKER: https://www.youtube.com/watch?v=QV90EuDUHtEe)
+Interview MUNDO HACKER: https://www.youtube.com/watch?v=QV90EuDUHtEe
 
 ##### Certifications
 ```
