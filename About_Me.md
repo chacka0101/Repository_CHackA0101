@@ -13,7 +13,7 @@
 ```
 ##### INTERVIEW
 ```
-###### ![Alt Text](https://www.youtube.com/watch?v=QV90EuDUHtEe) Entrevista en MUNDO HACKER
+• Interview MUNDO HACKER: https://www.youtube.com/watch?v=QV90EuDUHtEe
 ```
 ##### Certifications
 ```
