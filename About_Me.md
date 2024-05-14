@@ -1,7 +1,7 @@
 ## CHackA0101
 ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/CHackA0101.png?raw=true)
 [![CHackA0101](http://www.hackthebox.eu/badge/image/198382)](https://app.hackthebox.eu/profile/198382)
-##### Exploit Author
+##### Exploit Writer
 ###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/0today.png?raw=true) VMware vCenter Server RCE 6.5 / 6.7 / 7.0 - Remote Code Execution Exploit - CVE-2021-21972: https://0day.today/exploit/36472
 
 ###### ![Alt Text](https://github.com/chacka0101/Repository_CHackA0101/blob/master/0today.png?raw=true) Oracle WebLogic Server 12.2.1.0 - Remote Code Execution (Unauthenticated) Exploit - CVE-2020-14882: [https://0day.today/exploit/36472](https://0day.today/exploit/35734)
