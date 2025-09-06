@@ -21,6 +21,7 @@ https://www.linkedin.com/in/chacka0101/
 ```
 ##### Certifications
 ```
+• Certified Lead Auditor ISO / IEC 27001:2022 - ERCA - IMS (Issued August 2025)
 • Certified IPv6 Forum Gold Engineer (Issued Jul 2020)
 • Certified IPv6 Forum Silver Engineer (Issued Jun 2020)
 • Certified Cybersecurity Manager ISO / IEC 27032:2012 - ERCA - LL-C Services Colombia (Issued May 2020)
